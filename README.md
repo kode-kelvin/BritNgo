@@ -25,3 +25,5 @@ Multiple paged website - Home page, Blog / Blog Detail Page, Contact Page, Donat
 <img width="1434" alt="Screenshot 2021-12-12 at 6 16 49 p m" src="https://user-images.githubusercontent.com/51726237/145724760-0d19412d-ba5f-4530-87f1-fe21489c396a.png">
 <img width="1434" alt="Screenshot 2021-12-12 at 6 16 56 p m" src="https://user-images.githubusercontent.com/51726237/145724761-dea59d8a-bf26-4375-b358-ec478636f6f9.png">
 <img width="1434" alt="Screenshot 2021-12-12 at 6 17 02 p m" src="https://user-images.githubusercontent.com/51726237/145724763-8b065736-b171-48d4-a11b-344a85e6c17c.png">
+
+added from VSCODE
